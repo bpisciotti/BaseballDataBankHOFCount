@@ -19,7 +19,7 @@ This repository contains a simple Python script that reads the `HallOfFame.csv` 
 1. **Clone or download** this repo:
 
    ```bash
-   git clone https://github.com/your-username/baseball-hof-count.git
+   git clone https://github.com/bpisciotti/BaseballDataBankHOFCount.git
    cd baseball-hof-count
    ```
 
